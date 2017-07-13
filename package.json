@@ -1,0 +1,22 @@
+{
+  "name": "@mi/logo-animate",
+  "version": "1.0.0",
+  "description": "XiaoMi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeasonstudio/mi-svg.git"
+  },
+  "keywords": [
+    "mi"
+  ],
+  "author": "Jeason",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeasonstudio/mi-svg/issues"
+  },
+  "homepage": "https://github.com/jeasonstudio/mi-svg#readme"
+}
