@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jeasonstudio/mi-svg/issues"
   },
-  "homepage": "https://github.com/jeasonstudio/mi-svg#readme"
+  "homepage": "https://github.com/jeasonstudio/mi-svg#readme",
+  "devDependencies": {
+    "@mi/eslint-config-mcfe-react-app": "^1.0.4-14"
+  }
 }
